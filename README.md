@@ -9,9 +9,6 @@ perpetual markets.
 
 This repository is part of the Isolyn Labs ecosystem.
 
-FFor the full system overview and architecture diagrams, see:
-https://github.com/isolynlabs/.github#readme
-
 ---
 
 ## Scope
