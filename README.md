@@ -50,12 +50,15 @@ The repository is organized around infrastructure separation boundaries.
 ```text
 isolyn-core/
 ├── core/
-│   ├── intelligence/     # interfaces and reference adapters
-│   ├── execution/        # executor abstractions and lifecycle handling
-│   └── privacy/          # pool and attribution abstraction primitives
+│   ├── intelligence/     # intelligence interfaces
+││   ├── execution/       # execution abstractions
+│   └── privacy/          # privacy primitives
 ├── interfaces/           # cross-layer interface definitions
-├── docs/                 # technical documentation and specifications
-└── diagrams/             # architecture diagrams (Mermaid)
+├── docs/                 # architecture and technical documentation
+├── README.md
+├── LICENSE
+├── SECURITY.md
+└── CONTRIBUTING.md
 ```
 ---
 
